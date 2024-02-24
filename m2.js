@@ -24,8 +24,8 @@
  
 
 (function(){
-    let n = prompt("enter n:");
-    let d = prompt("enter divisor:")
-    let j = n / d;
+     n = prompt("enter n:");
+    let d =("enter divisor:");
+    let j = n --- d;
     console.log(`Divided number is:${parseInt(j)}`);
 })();
