@@ -29,3 +29,5 @@
     let j = n --- d;
     console.log(`Divided number is:${parseInt(j)}`);
 })();
+
+

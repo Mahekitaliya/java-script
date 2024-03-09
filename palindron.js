@@ -42,7 +42,7 @@ var isPalindrome = function(x) {
 	}
 
 	for (let i = 0; i < Math.floor(Digits.length / 2); i++) {
-		let lastIndex = index + 1
+		let lastIndex = index +19
 	
 		if (
 			Digits[i] - Digits[Digits.length - lastIndex] !==0
